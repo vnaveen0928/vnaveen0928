@@ -2,7 +2,7 @@
 
 ### Data Scientist · AI & ML Engineer
 
-Data professional with **6+ years of experience** delivering enterprise-scale solutions across **banking, healthcare and retail**, with expertise in Data Science, Data Engineering, Artificial Intelligence, Machine Learning, Predictive Analytics and Business Intelligence.
+Data professional with **6+ years of experience** delivering enterprise-scale solutions across **Finance, retail and Technology**, with expertise in Data Science, Data Engineering, Artificial Intelligence, Machine Learning, Predictive Analytics and Business Intelligence.
 
 I design scalable data platforms, build machine learning models, develop cloud-native ETL pipelines, and turn structured and unstructured data into actionable business insights. I work hands-on with **Python, SQL, PySpark, Apache Spark, Kafka, Databricks, Snowflake, AWS** and modern AI/ML ecosystems — from predictive models and NLP applications to **Generative AI** solutions and real-time analytics platforms. I've also led enterprise-wide business process analysis initiatives that improved productivity, governance and business performance.
 
