@@ -18,20 +18,6 @@ I design scalable data platforms, build machine learning models, develop cloud-n
 - 🤝 Agile delivery, stakeholder collaboration and cross-functional project delivery
 
 ## 🛠️ Technical skills
-| Category | Skills |
-|---|---|
-| **Programming** | Python, SQL, PySpark, Scala, R |
-| **Data Engineering** | Apache Spark, Kafka, Hadoop, Airflow, Databricks, ETL/ELT Pipelines |
-| **Machine Learning** | Scikit-learn, XGBoost, Random Forest, Regression, Classification, Clustering |
-| **Deep Learning** | TensorFlow, PyTorch, Keras |
-| **Generative AI** | LangChain, LangGraph, RAG, GPT-4, LLaMA, Hugging Face |
-| **Cloud Platforms** | AWS, Azure, GCP |
-| **AWS Services** | S3, Glue, Redshift, SageMaker, Lambda, Athena, EMR |
-| **Databases** | Snowflake, PostgreSQL, MySQL, MongoDB, BigQuery |
-| **BI & Visualization** | Power BI, Tableau, Plotly, Matplotlib |
-| **MLOps & DevOps** | MLflow, Docker, Kubernetes, Jenkins, GitHub Actions |
-| **APIs & Deployment** | Flask, FastAPI, REST APIs |
-| **Data Analytics** | Forecasting, Statistical Modeling, Hypothesis Testing, A/B Testing |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
