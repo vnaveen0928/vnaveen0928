@@ -1,8 +1,6 @@
 # Hi, I'm Naveen Vanamamala 👋
 
-### Data Scientist · AI & ML Engineer
-
-Data professional with **6+ years of experience** delivering enterprise-scale solutions across **Finance, retail and Technology**, with expertise in Data Science, Data Engineering, Artificial Intelligence, Machine Learning, Predictive Analytics and Business Intelligence.
+Iam a Senior Data professional with **6+ years of experience** delivering enterprise-scale solutions across **Finance, retail and Technology**, with expertise in Data Science, Data Engineering, Artificial Intelligence, Machine Learning, Predictive Analytics and Business Intelligence.
 
 I design scalable data platforms, build machine learning models, develop cloud-native ETL pipelines, and turn structured and unstructured data into actionable business insights. I work hands-on with **Python, SQL, PySpark, Apache Spark, Kafka, Databricks, Snowflake, AWS** and modern AI/ML ecosystems — from predictive models and NLP applications to **Generative AI** solutions and real-time analytics platforms. I've also led enterprise-wide business process analysis initiatives that improved productivity, governance and business performance.
 
@@ -67,6 +65,3 @@ I design scalable data platforms, build machine learning models, develop cloud-n
 | [**DEO Telangana Office Suite**](https://github.com/vnaveen0928/deo-telangana) | Browser-only office management app: pay bills, payslips, medical claims, mid-day meals | HTML · JavaScript |
 
 **More:** [IPL 2022 Analysis](https://github.com/vnaveen0928/ipl-data-visualization) · [SQL Practice](https://github.com/vnaveen0928/sql-practice) · [Python Learning Journey](https://github.com/vnaveen0928/python-learning-journey)
-
-## 📈 GitHub stats
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnaveen0928&show_icons=true&hide_border=true)
